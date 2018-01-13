@@ -1,4 +1,4 @@
-# Using CMake to build Qt 5.5 projects
+# Using CMake to build Qt 5.10 projects
 
 Let's take the Simple OpenGl example from `C:\Qt\Examples\$(QTVERSION)\qt3d\simple-cpp`. I took this filed and copied it into another folder.
 
