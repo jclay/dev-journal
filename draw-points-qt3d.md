@@ -272,5 +272,7 @@ void SceneModifier::AddPoints() {
 ```
 
 ## Further Reading
+- [OpenGL Vertex Specification](https://www.khronos.org/opengl/wiki/Vertex_Specification)
+- [OpenGL Buffer Objects](https://www.khronos.org/opengl/wiki/Buffer_Object)
 - [The source for QPlaneMesh.cpp](https://github.com/qt/qt3d/blob/5.10/src/extras/geometries/qplanemesh.cpp)
 - [The source for QPlaneGeometry.cpp](https://github.com/qt/qt3d/blob/5.10/src/extras/geometries/qplanegeometry.cpp)
