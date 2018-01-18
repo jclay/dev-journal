@@ -270,3 +270,7 @@ void SceneModifier::AddPoints() {
     }
 }
 ```
+
+## Further Reading
+- [The source for QPlaneMesh.cpp](https://github.com/qt/qt3d/blob/5.10/src/extras/geometries/qplanemesh.cpp)
+- [The source for QPlaneGeometry.cpp](https://github.com/qt/qt3d/blob/5.10/src/extras/geometries/qplanegeometry.cpp)
