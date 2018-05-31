@@ -3,7 +3,7 @@
 Here, I document the setup process I'm using for my CUDA development process in Windows 10.
 
 The first thing to note is that the CUDA toolkit is [constantly](https://devtalk.nvidia.com/default/topic/1027209/cuda-setup-and-installation/cuda-9-0-does-not-work-with-the-latest-vs-2017-update/) [breaking](https://devtalk.nvidia.com/default/topic/1028669/cuda-setup-and-installation/how-to-get-visual-studio-2017-to-use-cuda-9-1-/) [with Visual Studio 2017](https://devtalk.nvidia.com/default/topic/1027299/cuda-9-failed-to-support-the-latest-visual-studio-2017-version-15-5/?offset=51).
-For this reason, I recommend I use the Visual Studio 2015 SP3 which has proven to be very stable.
+For this reason, I recommend using the Visual Studio 2015 SP3 which has proven to be very stable.
 
 ## Setup
 
