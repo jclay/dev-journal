@@ -11,7 +11,7 @@ As Visual Studio Code becomes more feature rich, I find myself predominantly usi
 - cquery (must build from source on Windows currently)
 - CMake Tools
 - Microsoft C/C++ Extension
-- Vim Emulation
+- vscodevim
 - vscode-cudacpp for CUDA language highlighting
 
 **Configuration**
