@@ -28,7 +28,7 @@ if (USE_CUDA)
 
   # Hack to get intellisense working for CUDA includes
   if (MSVC)
-    set(CMAKE_VS_SDK_INCLUDE_DIRECTORIES "$(VC_IncludePath);glm_include_path/")
+    set(CMAKE_VS_SDK_INCLUDE_DIRECTORIES "$(VC_IncludePath);$(WindowsSDK_IncludePath);glm_include_path/")
   endif()
 
   set(CUDA_SOURCES cuda/GPUImplementation.cu cuda/GPUImplementation.h cuda/IntegrationUtilities.hpp)
