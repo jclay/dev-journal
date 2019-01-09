@@ -10,5 +10,6 @@ A place for journaling development work. I work on mostly on Windows 10, with CU
 - [CMake with Qt 5.10](cmake-qt5-10.md)
 - [Qt3D Per Frame Callback](qt3d-per-frame-callback.md)
 - [Drawing Points with Qt3D](draw-points-qt3d.md)
+- [Simple C++ argmin/argmax for std::vector](simple_cpp_argmax_argmin.md)
 
 **Pull request and suggestions are welcome at: https://github.com/jclay/dev-journal/**
