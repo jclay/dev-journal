@@ -16,6 +16,7 @@ Used as follows:
 
 ```c++
 #include <vector>
+#include <iostream>
 
 void main() {
   std::vector<int> my_vec = { 1, 43, 2, 4, 2, 12 };
